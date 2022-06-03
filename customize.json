@@ -1,7 +1,7 @@
 {
   "greeting": "Hey",
   "name": "Mimi",
-  "greetingText": "Hope this cheers up your day even a lil bit!!",
+  "greetingText": "Hope this cheers up your day even a lil bit",
   "wishText": "I look forward to more years with you ;)",
   "imagePath": "img/Mimi.png",
   "text1": "It's your special day sayang!!! :D",
@@ -17,7 +17,7 @@
   "bigTextPart1": "S",
   "bigTextPart2": "O",
   "wishHeading": "Happy Birthday!",
-  "outroText": "I hope u like the present I sent over :]",
+  "outroText": "I hope u like the present I sent over :)",
   "replayText": "Klik kt sini kalau nk repeat (tpi jangan bnyak sngat takut rindu terlebih hshshshs)",
   "outroSmiley": ":)"
 }
